@@ -1,1 +1,1 @@
-#new aditions
+#new additions
