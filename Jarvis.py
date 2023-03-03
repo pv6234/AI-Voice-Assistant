@@ -83,7 +83,7 @@ def startup():
     speak(f"Currently it is {c_time}")
     speak("I am Jarvis. Online and ready sir. Please tell me how may I help you")
     
-
+#this is jarvis
 
 
 def wish():
