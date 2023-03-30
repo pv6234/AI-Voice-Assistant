@@ -1,3 +1,4 @@
+# importing all libraries
 from Jarvis import JarvisAssistant
 import re
 import os
@@ -361,7 +362,7 @@ class Main(QMainWindow):
         timer.timeout.connect(self.showTime)
         timer.start(1000)
         startExecution.start()
-
+# to display current time.
     def showTime(self):
         current_time = QTime.currentTime()
         current_date = QDate.currentDate()
