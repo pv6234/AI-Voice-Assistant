@@ -25,7 +25,7 @@ from Jarvis.features.gui import Ui_MainWindow
 from Jarvis.config import config
 
 obj = JarvisAssistant()
-
+#This the the object.
 # ================================ MEMORY ===========================================================================================================
 
 GREETINGS = ["hello jarvis", "jarvis", "wake up jarvis", "you there jarvis", "time to work jarvis", "hey jarvis",
