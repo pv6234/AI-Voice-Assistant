@@ -1,5 +1,5 @@
 # importing all libraries
-# beginning of the learning......
+# 
 from Jarvis import JarvisAssistant
 import re
 import os
