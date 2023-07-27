@@ -42,7 +42,7 @@ EMAIL_DIC = {
     'my second mail': 'atharvaaingle@gmail.com'
 }
 
-CALENDAR_STRS = ["what do i have", "do i have plans", "am i busy"]
+CALENDAR_STRS = ["what do I have", "do I have plans", "am I busy"]
 # =======================================================================================================================================================
 
 
@@ -108,6 +108,7 @@ class MainThread(QThread):
 
     def run(self):
         self.TaskExecution()
+      #blah blah blah
 
     def TaskExecution(self):
         startup()
