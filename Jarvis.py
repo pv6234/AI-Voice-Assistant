@@ -1,5 +1,5 @@
 # importing all libraries
-# 
+# this will be the NLP recognition 
 from Jarvis import JarvisAssistant
 import re
 import os
